@@ -21,7 +21,7 @@ namespace Liste_Methodes
         {
             Compteur = Compteur + 1;
             s.Id = Compteur; // ++Compteur;
-            this._ListStagiaire.Add(s);
+            this._ListStagiaire.Add(s); 
         }
     }
 }

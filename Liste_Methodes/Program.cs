@@ -23,7 +23,7 @@ namespace Liste_Methodes
             Stagiaire s2 = new Stagiaire();
             s2.Nom = "Chami";
             s2.DateNaissance = new DateTime(2001, 2, 3);
-
+             
             gestionStagiaires.Ajouter(s2);
 
         }
